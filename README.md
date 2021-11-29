@@ -1,5 +1,4 @@
 # Machine Learning Questions
-A collection of technical interview questions for machine learning and computer vision engineering positions.
 
 #### 1) What's the trade-off between bias and variance? [[src](http://houseofbots.com/news-detail/2849-4-data-science-and-machine-learning-interview-questions)]
 
